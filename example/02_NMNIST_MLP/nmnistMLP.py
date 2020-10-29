@@ -1,4 +1,5 @@
-import sys, os
+import sys
+import os
 CURRENT_TEST_DIR = os.getcwd()
 sys.path.append(CURRENT_TEST_DIR + "/../../src")
 
